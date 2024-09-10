@@ -42,7 +42,7 @@ Ainsi le théorème de Gauss nous dit que le flux du champ électrique sur une s
 Lorsque la surface n'enferme aucune charge, alors on devrait s'attendre à ce qu'il y ait autant de ligne de champ qui entre la surface que de lignes qui en sortent. Cela se traduit par un flux total nul. Autrement dit, les charges à l'extérieur de la surface ne contribuent pas au flux électrique total sur cette dernière.
 
 ![[Electric-flux-surface-example.svg.png|300]] ![[Electric-flux-no-charge-inside.svg.png|300]]
-# Expression locale
+# Expression locale :)
 
 > [!théorème] Théorème de Gauss (forme locale)
 > En tout point de l'espace, le théorème de Gauss vérifie

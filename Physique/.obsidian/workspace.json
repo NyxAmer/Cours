@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Électromagnétisme.md",
-                "mode": "preview",
+                "file": "Théorème de Gauss.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Électromagnétisme.md",
+                "file": "Théorème de Gauss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Électromagnétisme.md",
+                "file": "Théorème de Gauss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Électromagnétisme.md"
+                "file": "Théorème de Gauss.md"
               }
             }
           }
@@ -161,19 +161,19 @@
   },
   "active": "6c23a432c69886e7",
   "lastOpenFiles": [
+    "Théorème d'Ampère.md",
+    "Théorème de Gauss.md",
+    "Électromagnétisme.md",
     "Exemples de FH élémentaire.md",
     "Flux EM.md",
     "Electric-flux-no-charge-inside.svg.png",
     "Fonctions Holomorphes.md",
-    "Théorème d'Ampère.md",
     "Sommeil/Planning.md",
-    "Théorème de Gauss.md",
     "Sommeil/2024-09-10.md",
     "Sommeil/2024-09-09.md",
     "Sommeil",
     "Loi de Faraday.md",
     "Énergie électromagnétique.md",
-    "Électromagnétisme.md",
     "Équations de Maxwell.md",
     "All/Électromagnétisme/EM.md",
     "Coordonnées Généralisées.md",
