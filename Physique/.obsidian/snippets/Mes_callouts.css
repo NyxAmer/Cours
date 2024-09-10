@@ -1,0 +1,9 @@
+.callout[data-callout="théorème"] {
+    --callout-color: 10, 255, 125;
+    --callout-icon: lucide-sigma;
+}
+
+.callout[data-callout="démo"] {
+    --callout-color: 255, 200, 50;
+    --callout-icon: lucide-calculator;
+}
