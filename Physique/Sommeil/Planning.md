@@ -2,12 +2,12 @@
 	- [x] create daily note
 	- [x] give info about sleep
 
-- [ ] 2024-09-10
+- [x] 2024-09-10
 	- [x] create daily note
-	- [ ] give info about sleep
+	- [x] give info about sleep
 
 - [ ] 2024-09-11
-	- [ ] create daily note
+	- [x] create daily note
 	- [ ] give info about sleep
 
 - [ ] 2024-09-12

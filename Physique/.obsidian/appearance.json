@@ -4,5 +4,7 @@
     "Nouveau document texte",
     "Mes_callouts"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 12,
+  "baseFontSizeAction": true
 }
