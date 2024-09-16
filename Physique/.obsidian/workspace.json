@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mécanique Quantique Intro.md",
+                "file": "Capillarité.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Mécanique",
+                "query": "tag:#Électromagnétisme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mécanique Quantique Intro.md",
+                "file": "Capillarité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mécanique Quantique Intro.md",
+                "file": "Capillarité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mécanique Quantique Intro.md"
+                "file": "Capillarité.md"
               }
             }
           }
@@ -149,52 +149,51 @@
   },
   "active": "276945421132def8",
   "lastOpenFiles": [
+    "Théorème de Gauss.md",
+    "Capillarité.md",
+    "Charges et courants libres.md",
+    "Sources/Médias/800px-Bulle_caténoïde.png",
+    "Sources/Médias/Catenoid.png",
+    "Exemples de FH élémentaire.md",
+    "Equation de la diffusion.md",
+    "All/Électromagnétisme/schémas/Pasted image 20240402224756.png",
+    "All/Électromagnétisme/schémas/Pasted image 20240330170622.png",
+    "All/Électromagnétisme/schémas/Pasted image 20240328224901.png",
+    "All/Électromagnétisme/schémas/Pasted image 20240324230819.png",
+    "All/Électromagnétisme/schémas/Pasted image 20240324215215.png",
+    "All/Électromagnétisme/schémas/Pasted image 20240323213849.png",
+    "All/Électromagnétisme/schémas/Pasted image 20240323185210.png",
+    "All/Électromagnétisme/schémas/Pasted image 20240323183023.png",
+    "Sources/Médias/Diffusion0001-0500.mp4",
+    "Sources/Médias/Ondes_planes0001-0350.mp4",
+    "Marche aléatoire.md",
+    "All/Mécanique des fluides/Mécanique des fluides 1.md",
+    "Mécanique Quantique Intro.md",
+    "Potentiels électromagnétiques.md",
+    "Séries entières.md",
+    "Théorème d'Ampère.md",
+    "All/Maths/Identités d'analyse vectorielle.md",
+    "All/Électromagnétisme/EM.md",
+    "All/Optique physique/Optique physique.md",
+    "Excalidraw/Drawing 2024-09-10 21.22.07.excalidraw.md",
+    "Sources/Médias",
     "Sommeil/2024-09-15.md",
     "Sommeil/2024-09-10.md",
     "Sommeil/2024-09-09.md",
-    "Diffusion.md",
-    "Mécanique Quantique Intro.md",
     "Fonction d'onde.md",
     "Dualité Onde Corpuscule.md",
     "Intro relativité restreinte.md",
-    "Théorème de Gauss.md",
-    "Théorème d'Ampère.md",
-    "Séries entières.md",
-    "Potentiels électromagnétiques.md",
     "Loi de Faraday.md",
     "Conditions de Cauchy-Riemann.md",
-    "Charges et courants libres.md",
-    "Sources/1024px-Ingre,_Grande_Odalisque.jpg",
-    "All/Électromagnétisme/EM.md",
     "Électromagnétisme.md",
     "Équations de Maxwell.md",
-    "Fonctions Holomorphes.md",
-    "exemple.md",
-    "Excalidraw/Drawing 2024-09-10 21.22.07.excalidraw.md",
     "Excalidraw",
-    "Exemples de FH élémentaire.md",
-    "Flux EM.md",
-    "Electric-flux-no-charge-inside.svg.png",
-    "Sommeil/Planning.md",
     "Sommeil",
-    "Énergie électromagnétique.md",
-    "Coordonnées Généralisées.md",
-    "Electric-flux-surface-example.svg.png",
-    "VFPt_minus_thumb.svg.png",
-    "VFPt_plus_thumb.svg.png",
     "Untitled.canvas",
-    "All/Mécanique des fluides/schémas/Pasted image 20240323181137.png",
-    "All/Électromagnétisme/schémas/Pasted image 20240323182358.png",
     "Sources",
-    "All/Mécanique des fluides/schémas/Pasted image 20240506170940.png",
     "All",
-    "All/Mécanique des fluides/schémas/Pasted image 20240506164204.png",
-    "All/Électromagnétisme/schémas/Electromagneticwave3D.gif",
     "All/Optique physique/Schémas",
     "All/Maths",
-    "All/Optique physique",
-    "All/Mécanique des fluides/schémas",
-    "All/Mécanique des fluides",
-    "All/Électromagnétisme"
+    "All/Optique physique"
   ]
 }

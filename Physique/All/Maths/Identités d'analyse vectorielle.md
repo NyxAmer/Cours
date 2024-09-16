@@ -2,14 +2,12 @@
 tags:
   - Maths/Analyse/Vectorielle
 ---
-
+Soit $\psi$ un champ scalaire et $\mathbf{A}$ et $\mathbf{B}$ des champs vectoriels, ils vérifient les relations 
 $$\nabla \times \nabla \psi = \mathbf{0}$$
 $$\nabla \cdot (\nabla \times \mathbf{A}) = 0$$
 $$\nabla \cdot (\mathbf{A} \times \mathbf{B}) = \mathbf{B} \cdot (\nabla \times \mathbf{A}) - \mathbf{A} \cdot (\nabla \times \mathbf{B})$$
 $$\nabla \times (\mathbf{A} \times \mathbf{B}) = \mathbf{A}(\nabla \cdot \mathbf{B}) - \mathbf{B} (\nabla \cdot \mathbf{A}) + (\mathbf{B} \cdot \nabla )\mathbf{A} - (\mathbf{A} \cdot \nabla )\mathbf{B}$$
 $$\mathbf{A} \times (\nabla \times \mathbf{B}) = (\nabla \mathbf{B}) \cdot \mathbf{A} - \mathbf{A} \cdot (\nabla \mathbf{B})$$
-
-
 $$\begin{align}
 \nabla \times (\nabla \times \mathbf{A}) &= \nabla(\nabla \cdot \mathbf{A}) - \nabla^2 \mathbf{A}
 \end{align}$$

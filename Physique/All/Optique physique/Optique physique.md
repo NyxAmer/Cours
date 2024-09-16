@@ -6,6 +6,8 @@ Les équations de Maxwell permettent d'arriver à des équations d'ondes pour le
 
 ### Onde plane monochromatique
 
+![[Ondes_planes0001-0350.mp4]]
+
 La solution de l'équation d'onde, donnant une onde se propageant en direction de $\vec{k}$ $$u(\vec{r},t) = u_{0}\cos (\omega t - \vec{k} \cdot \vec{r} - \varphi_0)$$On peut vérifier que cela satisfait l'équation d'onde.$$\begin{align}
 \nabla^{2} u &= \nabla^{2} u_{0}\cos (\omega t - \vec{k} \cdot \vec{r} - \varphi_{0})\\
 &= - u_{0} \cos (\omega t - \vec{k} \cdot \vec{r} - \varphi_{0}) (k_{x}^{2} + k_{y}^{2} + k_{z}^{2}) \\
