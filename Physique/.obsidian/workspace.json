@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24eef905dcf5716c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fonction d'onde.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "276945421132def8",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,13 +149,14 @@
   },
   "active": "276945421132def8",
   "lastOpenFiles": [
-    "Fonction d'onde.md",
-    "Mécanique Quantique Intro.md",
-    "Dualité Onde Corpuscule.md",
-    "Intro relativité restreinte.md",
     "Sommeil/2024-09-15.md",
     "Sommeil/2024-09-10.md",
     "Sommeil/2024-09-09.md",
+    "Diffusion.md",
+    "Mécanique Quantique Intro.md",
+    "Fonction d'onde.md",
+    "Dualité Onde Corpuscule.md",
+    "Intro relativité restreinte.md",
     "Théorème de Gauss.md",
     "Théorème d'Ampère.md",
     "Séries entières.md",
@@ -191,7 +179,6 @@
     "Sommeil",
     "Énergie électromagnétique.md",
     "Coordonnées Généralisées.md",
-    "Conservation de la charge.md",
     "Electric-flux-surface-example.svg.png",
     "VFPt_minus_thumb.svg.png",
     "VFPt_plus_thumb.svg.png",
