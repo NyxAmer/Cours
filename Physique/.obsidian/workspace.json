@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coordonnées Généralisées.md",
+                "file": "Conditions de Cauchy-Riemann.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equation d'Euler-Lagrange.md",
+                "file": "Conditions de Cauchy-Riemann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equation d'Euler-Lagrange.md",
+                "file": "Conditions de Cauchy-Riemann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equation d'Euler-Lagrange.md"
+                "file": "Conditions de Cauchy-Riemann.md"
               }
             }
           }
@@ -160,15 +159,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "025f73994e0013ac",
+  "active": "276945421132def8",
   "lastOpenFiles": [
-    "Intro relativité restreinte.md",
-    "Equation d'Euler-Lagrange.md",
-    "Coordonnées Généralisées.md",
-    "Conservation de la charge.md",
-    "Conditions de Cauchy-Riemann.md",
     "Charges et courants libres.md",
     "Capillarité.md",
+    "Coordonnées Généralisées.md",
+    "Equation d'Euler-Lagrange.md",
+    "Intro relativité restreinte.md",
+    "Conservation de la charge.md",
+    "Conditions de Cauchy-Riemann.md",
     "Flux EM.md",
     "All/Électromagnétisme/EM.md",
     "Fonctions Holomorphes.md",
