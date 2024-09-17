@@ -10,7 +10,7 @@ tags:
 \frac{\partial u(x,y)}{\partial y} \Bigg\rvert_{x_0, y_0} = - \frac{\partial v(x,y)}{\partial x} \Bigg\rvert_{x_0, y_0}
 \end{dcases}$$
 
-> [!démo]+
+> [!démo]-
 > la [[Fonctions Holomorphes#^e5e962|condition de dérivabilité]] en $z_0$ s'écrit : $$\begin{align}
 \lim_{z \rightarrow z_0 \equiv |z - z_0| \rightarrow 0} \frac{f(z) - f(z_0)}{z - z_0} = \lim_{u \rightarrow 0 \equiv |u| \rightarrow 0} \frac{f(z_0 + u) - f(z_0)}{u} = f'(z_0) \in \mathbb{C}
 \end{align}$$où $u=z-z_0 = s+ it$. 

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capillarité.md",
+                "file": "Coordonnées Généralisées.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "025f73994e0013ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equation d'Euler-Lagrange.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capillarité.md",
+                "file": "Equation d'Euler-Lagrange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capillarité.md",
+                "file": "Equation d'Euler-Lagrange.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capillarité.md"
+                "file": "Equation d'Euler-Lagrange.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,14 +160,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "276945421132def8",
+  "active": "025f73994e0013ac",
   "lastOpenFiles": [
-    "Théorème de Gauss.md",
-    "Capillarité.md",
+    "Intro relativité restreinte.md",
+    "Equation d'Euler-Lagrange.md",
+    "Coordonnées Généralisées.md",
+    "Conservation de la charge.md",
+    "Conditions de Cauchy-Riemann.md",
     "Charges et courants libres.md",
+    "Capillarité.md",
+    "Flux EM.md",
+    "All/Électromagnétisme/EM.md",
+    "Fonctions Holomorphes.md",
+    "Exemples de FH élémentaire.md",
+    "Énergie électromagnétique.md",
+    "Électromagnétisme.md",
+    "Équations de Maxwell.md",
+    "Théorème de Gauss.md",
     "Sources/Médias/800px-Bulle_caténoïde.png",
     "Sources/Médias/Catenoid.png",
-    "Exemples de FH élémentaire.md",
     "Equation de la diffusion.md",
     "All/Électromagnétisme/schémas/Pasted image 20240402224756.png",
     "All/Électromagnétisme/schémas/Pasted image 20240330170622.png",
@@ -173,20 +197,10 @@
     "Séries entières.md",
     "Théorème d'Ampère.md",
     "All/Maths/Identités d'analyse vectorielle.md",
-    "All/Électromagnétisme/EM.md",
     "All/Optique physique/Optique physique.md",
     "Excalidraw/Drawing 2024-09-10 21.22.07.excalidraw.md",
     "Sources/Médias",
     "Sommeil/2024-09-15.md",
-    "Sommeil/2024-09-10.md",
-    "Sommeil/2024-09-09.md",
-    "Fonction d'onde.md",
-    "Dualité Onde Corpuscule.md",
-    "Intro relativité restreinte.md",
-    "Loi de Faraday.md",
-    "Conditions de Cauchy-Riemann.md",
-    "Électromagnétisme.md",
-    "Équations de Maxwell.md",
     "Excalidraw",
     "Sommeil",
     "Untitled.canvas",
