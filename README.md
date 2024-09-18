@@ -30,9 +30,12 @@ Pour la suite il vous faut Obsidian
 ![image](https://github.com/user-attachments/assets/d26fbb1c-4887-4b87-ba38-397af6a6f378)
 
 - Séléctionnez alors dans votre ordinateur l'emplacement du dossier nommé "Physique" situé dans le dossier téléchargé plus tôt, assurez-vous de bien séléctionner le dossier nommé "Physique" sinon cela ne marchera pas correctement.
+
+![image](https://github.com/user-attachments/assets/151e25d8-6381-4f84-a1a8-a565829fde93)
+
 - Cliquez sur "Trust author and enable plugins", cela authorise Obsidian à utiliser les plugins et autre mise en page custom que j'utilise pour maintenir le vault. En pratique cela ne change quasiment rien, ce vault n'utilise que 2 plugins à ce jour et presque rien de custom en plus, donc ça n'est probablement pas grave si vous n'activez pas les plugins. Je recommande quand même de le faire afin de garantir la meilleure compatibilité.
   
-![image](https://github.com/user-attachments/assets/151e25d8-6381-4f84-a1a8-a565829fde93)
+![image](https://github.com/user-attachments/assets/e4b2152d-d2cc-4554-bf47-984186d18267)
 
 ### Naviguer le vault
 
