@@ -48,9 +48,7 @@ Ainsi, on applique ces relations au cas du système dynamique (pour obtenir un s
 (e) \Rightarrow \delta W^{(2)} &= \sum_k \left( \sum_i m_i \ddot{\vec{r}}_i \cdot \frac{\partial \vec{r}_i}{\partial q_k} \right) \delta q_k 
 \end{align}$$Avec $\displaystyle \ddot{\vec{r}}_i \frac{\partial \vec{r}_i}{\partial q_k} = \frac{\mathrm{d}}{\mathrm{d} t} \left( \dot{\vec{r}}_i \frac{\partial \vec{r}_i }{\partial q_k} \right) - \vec{r}_i \frac{\mathrm{d}}{\mathrm{d}t} \frac{\partial \vec{r}_i}{\partial q_k}$. $$\begin{align}
 &(d), (c) & \Rightarrow \delta W^{(2)} &= - \sum_k \delta q_k \sum_i \biggl( m_i \biggl( \frac{\mathrm{d}}{\mathrm{d} t} 
-{\underbrace{\left( \vec{v}_i \cdot \frac{\partial \vec{v}_i}{\partial \dot{q}_k}\right)}_{\displaystyle \frac{1}{2} \frac{\partial}{\partial \dot{q}_k} (\vec{v}_i^2)}}
--
-{\underbrace{\vec{v}_i \cdot \frac{\partial \vec{v}_i}{\partial q_k}}_{\displaystyle \frac{1}{2} \frac{\partial}{\partial q_k} (\vec{v}_i^2)}}
+{\underbrace{\left( \vec{v}_i \cdot \frac{\partial \vec{v}_i}{\partial \dot{q}_k}\right)}_{\displaystyle \frac{1}{2} \frac{\partial}{\partial \dot{q}_k} (\vec{v}_i^2)}} - {\underbrace{\vec{v}_i \cdot \frac{\partial \vec{v}_i}{\partial q_k}}_{\displaystyle \frac{1}{2} \frac{\partial}{\partial q_k} (\vec{v}_i^2)}}
 \biggr) \biggr) \\
 & & &= - \sum_k \delta q_k \left( \frac{\mathrm{d}}{\mathrm{d} t} \frac{\partial}{\partial \dot{q}_k} - \frac{\partial}{\partial q_k} \right) \underbrace{\sum_i \frac{1}{2} m_i v_i^2}_{\displaystyle T}
 \end{align}$$Ainsi on peut exprimer $\delta W$ en fonction des forces généralisées $Q_k$ et de l'énergie cinétique totale $T$ $$\begin{align}
