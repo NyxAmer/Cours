@@ -43,14 +43,14 @@ Le vault s'organise comme suit :
 - A gauche se situent toutes les notes que j'ai tappées. Elles sont plus ou moins rangées, je ne suis pas forcément très organisée, libre à vous de faire votre propre organisation.
 - Au centre se situent les différents onglets que vous avez ouverts.
 - A droite, vous pouvez afficher un onglet en cliquant sur ce bouton
-  ![image](https://github.com/user-attachments/assets/5c9c8cfa-e2f8-46dd-a6c3-e7e52660558a)
+ ![image](https://github.com/user-attachments/assets/5c9c8cfa-e2f8-46dd-a6c3-e7e52660558a)
   De droite à gauche vous pouvez :
   - afficher le plan de la note ouverte
-    ![image](https://github.com/user-attachments/assets/b9d56eb8-754e-4127-a349-3b9698c63953)
+ ![image](https://github.com/user-attachments/assets/b9d56eb8-754e-4127-a349-3b9698c63953)
   - afficher les tags utilisés pour organiser le vault.
-    ![image](https://github.com/user-attachments/assets/e113e580-de88-43c7-8337-20757a2ac2c7)
+ ![image](https://github.com/user-attachments/assets/e113e580-de88-43c7-8337-20757a2ac2c7)
     En activant les tags emboités, vous pouvez facilement consulter les différentes matières ou sujets.
-    ![image](https://github.com/user-attachments/assets/3814e63e-0296-4689-9eb6-add16b562fd9)
+ ![image](https://github.com/user-attachments/assets/3814e63e-0296-4689-9eb6-add16b562fd9)
     Cliquez sur un tag ouvre l'onglet recherche à gauche et cela vous donne toutes les notes qui se rapporte à ce tag.
 
 C'est avec le système de tags que j'ai prévu de faire fonctionner l'organisation de ce vault, il y'a pleins d'autres méthodes, de plugins ou de ressources en ligne pour personnaliser l'organisation de son vault. Je pense que les tags sont suffisants pour le moment.
