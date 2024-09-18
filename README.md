@@ -39,7 +39,7 @@ Pour la suite il vous faut Obsidian
 
 ### Naviguer le vault
 
-Une fois que tout est ouvert, en principe il n'y a pas besoin de recommencer : tout est sauvegradé dans Obsidian. Libre à vous de modifier et de disposer du contenu du vault comme bon vous semble.
+Une fois que tout est ouvert, en principe il n'y a pas besoin de recommencer : tout est sauvegardé dans Obsidian. Libre à vous de modifier et de disposer du contenu du vault comme bon vous semble.
 
 Pour apprendre à se servir d'Obsidian consultez la [documentation officielle](https://help.obsidian.md/Home), elle est facile à lire et il n'y a pas tant de choses à savoir. Consultez-là au fur et à mesure que vous en avez besoin.
 
@@ -66,7 +66,7 @@ Le vault s'organise comme suit :
     
  ![image](https://github.com/user-attachments/assets/3814e63e-0296-4689-9eb6-add16b562fd9)
  
-   Cliquez sur un tag ouvre l'onglet recherche à gauche et cela vous donne toutes les notes qui se rapporte à ce tag.
+   Cliquez sur un tag ouvre l'onglet recherche à gauche et cela vous donne toutes les notes qui se rapportent à ce tag.
 
 C'est avec le système de tags que j'ai prévu de faire fonctionner l'organisation de ce vault, il y'a pleins d'autres méthodes, de plugins ou de ressources en ligne pour personnaliser l'organisation de son vault. Je pense que les tags sont suffisants pour le moment.
 
