@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditions de Cauchy-Riemann.md",
+                "file": "Équations de Maxwell.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equation d'Euler-Lagrange.md",
+                "file": "Equation de la diffusion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditions de Cauchy-Riemann.md",
+                "file": "Equation de la diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditions de Cauchy-Riemann.md",
+                "file": "Equation de la diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,12 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditions de Cauchy-Riemann.md"
+                "file": "Equation de la diffusion.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -159,26 +160,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "276945421132def8",
+  "active": "f97a56d05422e844",
   "lastOpenFiles": [
+    "Equation d'Euler-Lagrange.md",
+    "Électromagnétisme.md",
+    "All/Électromagnétisme/EM.md",
+    "Équations de Maxwell.md",
+    "Equation de la diffusion.md",
+    "Énergie électromagnétique.md",
+    "Conditions de Cauchy-Riemann.md",
     "Charges et courants libres.md",
     "Capillarité.md",
     "Coordonnées Généralisées.md",
-    "Equation d'Euler-Lagrange.md",
     "Intro relativité restreinte.md",
     "Conservation de la charge.md",
-    "Conditions de Cauchy-Riemann.md",
     "Flux EM.md",
-    "All/Électromagnétisme/EM.md",
     "Fonctions Holomorphes.md",
     "Exemples de FH élémentaire.md",
-    "Énergie électromagnétique.md",
-    "Électromagnétisme.md",
-    "Équations de Maxwell.md",
     "Théorème de Gauss.md",
     "Sources/Médias/800px-Bulle_caténoïde.png",
     "Sources/Médias/Catenoid.png",
-    "Equation de la diffusion.md",
     "All/Électromagnétisme/schémas/Pasted image 20240402224756.png",
     "All/Électromagnétisme/schémas/Pasted image 20240330170622.png",
     "All/Électromagnétisme/schémas/Pasted image 20240328224901.png",

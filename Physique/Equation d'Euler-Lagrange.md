@@ -34,8 +34,8 @@ On va maintenant décrire le système en terme de coordonnées généralisée $q
 
 > [!Théorème] Relations admises
 > $$\begin{align}
-&(a) & \vec{r} &= \vec{r}_i (\mathbf{q}, t) \\
-&(b) & \frac{\mathrm{d} \vec{r}_i}{\mathrm{d} t} &= \vec{v} (\mathbf{q}, \dot{\mathbf{q}}, t) = \sum_k \left( \frac{\partial \vec{r}_1}{\partial q_k} \frac{\mathrm{d} q_k}{\mathrm{d} t} \right) + \frac{\partial \vec{r}_i}{\partial t} \\
+&(a) & \vec{r}_i &= \vec{r}_i (\mathbf{q}, t) \\
+&(b) & \frac{\mathrm{d} \vec{r}_i}{\mathrm{d} t} &= \vec{v}_i (\mathbf{q}, \dot{\mathbf{q}}, t) = \sum_k \left( \frac{\partial \vec{r}_1}{\partial q_k} \frac{\mathrm{d} q_k}{\mathrm{d} t} \right) + \frac{\partial \vec{r}_i}{\partial t} \\
 &(c) & \frac{\partial \vec{v}_i}{\partial \dot{q}_k} &= \frac{\partial \vec{r}_i}{\partial q_k} \\
 &(d) & \frac{\mathrm{d}}{\mathrm{d} t} \frac{\partial \vec{r}_i}{\partial q_k} &= \frac{\partial}{\partial q_k} \frac{\mathrm{d} \vec{r}_i}{\mathrm{d} t} = \frac{\partial \vec{v}_i}{\partial q_k} \\
 &(e) & \delta \vec{r}_i &= \sum_k \frac{\partial \vec{r}_i}{\partial q_k} \delta q_k + \cancelto{0}{\frac{\partial \vec{r}_i}{\partial t} \delta t}
@@ -47,7 +47,11 @@ Ainsi, on applique ces relations au cas du système dynamique (pour obtenir un s
 \delta W^{(2)} &= - \sum_i \dot{\vec{p}}_i \cdot \delta \vec{r}_i  \\
 (e) \Rightarrow \delta W^{(2)} &= \sum_k \left( \sum_i m_i \ddot{\vec{r}}_i \cdot \frac{\partial \vec{r}_i}{\partial q_k} \right) \delta q_k 
 \end{align}$$Avec $\displaystyle \ddot{\vec{r}}_i \frac{\partial \vec{r}_i}{\partial q_k} = \frac{\mathrm{d}}{\mathrm{d} t} \left( \dot{\vec{r}}_i \frac{\partial \vec{r}_i }{\partial q_k} \right) - \vec{r}_i \frac{\mathrm{d}}{\mathrm{d}t} \frac{\partial \vec{r}_i}{\partial q_k}$. $$\begin{align}
-&(d), (c) & \Rightarrow \delta W^{(2)} &= - \sum_k \delta q_k \sum_i \left( m_i \left( \frac{\mathrm{d}}{\mathrm{d} t} \underbrace{\left( \vec{v}_i \cdot \frac{\partial \vec{v}_i}{\partial \dot{q}_k}\right)}_{\displaystyle \frac{1}{2} \frac{\partial}{\partial \dot{q}_k} (\vec{v}_i^2)} - \underbrace{\vec{v}_i \cdot \frac{\partial \vec{v}_i}{\partial q_k}}_{\displaystyle \frac{1}{2} \frac{\partial}{\partial q_k} (\vec{v}_i^2)} \right) \right) \\
+&(d), (c) & \Rightarrow \delta W^{(2)} &= - \sum_k \delta q_k \sum_i \biggl( m_i \biggl( \frac{\mathrm{d}}{\mathrm{d} t} 
+{\underbrace{\left( \vec{v}_i \cdot \frac{\partial \vec{v}_i}{\partial \dot{q}_k}\right)}_{\displaystyle \frac{1}{2} \frac{\partial}{\partial \dot{q}_k} (\vec{v}_i^2)}}
+-
+{\underbrace{\vec{v}_i \cdot \frac{\partial \vec{v}_i}{\partial q_k}}_{\displaystyle \frac{1}{2} \frac{\partial}{\partial q_k} (\vec{v}_i^2)}}
+\biggr) \biggr) \\
 & & &= - \sum_k \delta q_k \left( \frac{\mathrm{d}}{\mathrm{d} t} \frac{\partial}{\partial \dot{q}_k} - \frac{\partial}{\partial q_k} \right) \underbrace{\sum_i \frac{1}{2} m_i v_i^2}_{\displaystyle T}
 \end{align}$$Ainsi on peut exprimer $\delta W$ en fonction des forces généralisées $Q_k$ et de l'énergie cinétique totale $T$ $$\begin{align}
 \delta W &= \delta W^{(1)} + \delta W^{(2)} \\
