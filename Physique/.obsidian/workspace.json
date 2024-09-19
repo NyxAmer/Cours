@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equation d'Euler-Lagrange.md",
+                "file": "Equation de la diffusion.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "025f73994e0013ac",
+            "id": "4c3cc633b36e6a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equation de la diffusion.md",
+                "file": "Equation de la chaleur.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equation d'Euler-Lagrange.md",
+                "file": "Equation de la chaleur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equation d'Euler-Lagrange.md",
+                "file": "Equation de la chaleur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equation d'Euler-Lagrange.md"
+                "file": "Equation de la chaleur.md"
               }
             }
           }
@@ -159,12 +160,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "276945421132def8",
+  "active": "4c3cc633b36e6a8e",
   "lastOpenFiles": [
-    "Énergie électromagnétique.md",
-    "Equation d'Euler-Lagrange.md",
     "Equation de la diffusion.md",
     "Équations de Maxwell.md",
+    "Mécanique Quantique Intro.md",
+    "Fonctions Holomorphes.md",
+    "Fonction d'onde.md",
+    "Flux EM.md",
+    "Equation de la chaleur.md",
+    "Equation d'Euler-Lagrange.md",
+    "Énergie électromagnétique.md",
     "Électromagnétisme.md",
     "All/Électromagnétisme/EM.md",
     "Conditions de Cauchy-Riemann.md",
@@ -173,8 +179,6 @@
     "Coordonnées Généralisées.md",
     "Intro relativité restreinte.md",
     "Conservation de la charge.md",
-    "Flux EM.md",
-    "Fonctions Holomorphes.md",
     "Exemples de FH élémentaire.md",
     "Théorème de Gauss.md",
     "Sources/Médias/800px-Bulle_caténoïde.png",
@@ -191,15 +195,12 @@
     "Sources/Médias/Ondes_planes0001-0350.mp4",
     "Marche aléatoire.md",
     "All/Mécanique des fluides/Mécanique des fluides 1.md",
-    "Mécanique Quantique Intro.md",
     "Potentiels électromagnétiques.md",
     "Séries entières.md",
     "Théorème d'Ampère.md",
     "All/Maths/Identités d'analyse vectorielle.md",
     "All/Optique physique/Optique physique.md",
-    "Excalidraw/Drawing 2024-09-10 21.22.07.excalidraw.md",
     "Sources/Médias",
-    "Sommeil/2024-09-15.md",
     "Excalidraw",
     "Sommeil",
     "Untitled.canvas",

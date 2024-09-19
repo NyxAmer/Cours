@@ -2,6 +2,8 @@
 tags:
   - Électromagnétisme
 ---
+Récapitulatif des équations de Maxwell pour l'électromagnétisme.
+
 # Équations de Maxwell dans le vide
 
 |                                                                     | forme différentielle                                                                                                  | forme intégrale                                                                                                                           |
