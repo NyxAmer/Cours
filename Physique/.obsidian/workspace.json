@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "276945421132def8",
+            "id": "4c3cc633b36e6a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equation de la diffusion.md",
+                "file": "Equation de la chaleur.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "4c3cc633b36e6a8e",
+            "id": "5b52a1e5fbe2ddf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conservation de la charge.md",
-                "mode": "source",
+                "file": "Solutions statiques de l'équation de la chaleur.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conservation de la charge.md",
+                "file": "Equation de la chaleur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conservation de la charge.md",
+                "file": "Equation de la chaleur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conservation de la charge.md"
+                "file": "Equation de la chaleur.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,24 +161,28 @@
   },
   "active": "4c3cc633b36e6a8e",
   "lastOpenFiles": [
+    "Solutions statiques de l'équation de la chaleur.md",
+    "Equation de la chaleur.md",
+    "Dualité Onde Corpuscule.md",
+    "Énergie électromagnétique.md",
+    "Equation de la diffusion.md",
+    "Exemples de FH élémentaire.md",
+    "Flux EM.md",
+    "Fonction d'onde.md",
+    "Marche aléatoire.md",
+    "Fonctions Holomorphes.md",
+    "Équations de Maxwell.md",
+    "Séries entières.md",
+    "Conservation de la charge.md",
+    "Coordonnées Généralisées.md",
     "Charges et courants libres.md",
     "Capillarité.md",
     "Électromagnétisme.md",
-    "Equation de la chaleur.md",
-    "Conservation de la charge.md",
-    "Equation de la diffusion.md",
-    "Équations de Maxwell.md",
     "Mécanique Quantique Intro.md",
-    "Fonctions Holomorphes.md",
-    "Fonction d'onde.md",
-    "Flux EM.md",
     "Equation d'Euler-Lagrange.md",
-    "Énergie électromagnétique.md",
     "All/Électromagnétisme/EM.md",
     "Conditions de Cauchy-Riemann.md",
-    "Coordonnées Généralisées.md",
     "Intro relativité restreinte.md",
-    "Exemples de FH élémentaire.md",
     "Théorème de Gauss.md",
     "Sources/Médias/800px-Bulle_caténoïde.png",
     "Sources/Médias/Catenoid.png",
@@ -193,13 +196,9 @@
     "All/Électromagnétisme/schémas/Pasted image 20240323183023.png",
     "Sources/Médias/Diffusion0001-0500.mp4",
     "Sources/Médias/Ondes_planes0001-0350.mp4",
-    "Marche aléatoire.md",
     "All/Mécanique des fluides/Mécanique des fluides 1.md",
     "Potentiels électromagnétiques.md",
-    "Séries entières.md",
     "Théorème d'Ampère.md",
-    "All/Maths/Identités d'analyse vectorielle.md",
-    "All/Optique physique/Optique physique.md",
     "Sources/Médias",
     "Excalidraw",
     "Sommeil",
